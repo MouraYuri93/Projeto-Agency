@@ -1,5 +1,3 @@
-<h1><img src="img/home.PNG"></h1>
-
 ### 📚 Sobre
 
 Este é um site de uma Agencia de sistemas fictícia.
