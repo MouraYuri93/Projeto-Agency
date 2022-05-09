@@ -4,7 +4,7 @@ Este é um site de uma Agencia de sistemas fictícia.
 
 ### 🎨 Detalhe
 
-Site desenvolvido com o Saas.
+Site desenvolvido com Saas.
 
 Site responsivo.
 
